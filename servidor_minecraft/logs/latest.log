@@ -102,3 +102,19 @@
 [15Mar2025 17:43:56.187] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 27749 ms
 [15Mar2025 17:43:56.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (33.874s)! For help, type "help"
 [15Mar2025 17:43:56.203] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Mar2025 17:53:20.209] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f5a02a1[id=<null>,name=Zoevy,properties={},legacy=false] (/100.102.0.90:55305) lost connection: Disconnected
+[15Mar2025 17:53:24.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zoevy[/100.102.0.90:55306] logged in with entity id 322 at (10.5, 98.0, 7.5)
+[15Mar2025 17:53:24.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zoevy joined the game
+[15Mar2025 17:54:29.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zoevy lost connection: Disconnected
+[15Mar2025 17:54:29.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zoevy left the game
+[15Mar2025 17:54:53.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Mar2025 17:54:53.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Mar2025 17:54:53.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Mar2025 17:54:53.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Mar2025 17:54:54.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Mar2025 17:54:57.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Mar2025 17:54:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Mar2025 17:54:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Mar2025 17:54:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Mar2025 17:54:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Mar2025 17:54:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
